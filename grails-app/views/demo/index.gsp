@@ -1,6 +1,5 @@
 <html>
 <body>
-</body>
     <table>
         <tr>
             <td>subClassInstance.metaClass.getMetaProperty('widget1').type</td>
